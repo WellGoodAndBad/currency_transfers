@@ -1,0 +1,7 @@
+*.sqlite3
+celerybeat-schedule
+
+__pycache__/
+__pycharm__/
+.idea/
+migrations/
